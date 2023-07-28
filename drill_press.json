@@ -1,0 +1,13 @@
+{
+	"ecology": [
+	  {
+		"relationship": "from",
+		"tool": "Induction Furnace"
+	  },
+	  {
+		"relationship": "uses",
+		"tool": "Universal Rotor"
+	  }
+	],
+	"machine": "Drill Press"
+  }
