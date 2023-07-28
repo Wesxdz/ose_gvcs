@@ -1,0 +1,21 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Induction Furnace"
+    },
+    {
+      "relationship": "from",
+      "tool": "Welder"
+    },
+    {
+      "relationship": "enables",
+      "tool": "CEB Press"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Tractor"
+    }
+  ],
+  "machine": "Ironworker"
+}

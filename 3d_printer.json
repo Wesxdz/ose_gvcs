@@ -1,0 +1,65 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "3D Scanner"
+    },
+    {
+      "relationship": "from",
+      "tool": "CAD"
+    },
+    {
+      "relationship": "from",
+      "tool": "Laser Cutter"
+    },
+    {
+      "relationship": "from",
+      "tool": "Bioplastic Extruder"
+    },
+    {
+      "relationship": "from",
+      "tool": "XYZ Table"
+    },
+    {
+      "relationship": "from",
+      "tool": "Motors"
+    },
+    {
+      "relationship": "from",
+      "tool": "Controller"
+    },
+    {
+      "relationship": "from",
+      "tool": "Spindle"
+    },
+    {
+      "relationship": "from",
+      "tool": "Extruder"
+    },
+    {
+      "relationship": "from",
+      "tool": "Feeder"
+    },
+    {
+      "relationship": "from",
+      "tool": "Tool Changer"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Bioplastic"
+    },
+    {
+      "relationship": "creates",
+      "tool": "3D Prints"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Metal Casting"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Digital Fabrication"
+    }
+  ],
+  "machine": "3D Printer"
+}

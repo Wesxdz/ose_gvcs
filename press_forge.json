@@ -1,0 +1,21 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Induction Furnace"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Hydraulic Motor"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Power Cube"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Induction Furnace"
+    }
+  ],
+  "machine": "Press Forge"
+}

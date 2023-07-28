@@ -1,0 +1,21 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "CNC Circuit Mill"
+    },
+    {
+      "relationship": "from",
+      "tool": "Induction Furnace"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Multimachine"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Electric Motor Generator"
+    }
+  ],
+  "machine": "Laser Cutter"
+}

@@ -1,0 +1,109 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Gasoline"
+    },
+    {
+      "relationship": "from",
+      "tool": "Biodiesel"
+    },
+    {
+      "relationship": "from",
+      "tool": "Steam Engine"
+    },
+    {
+      "relationship": "from",
+      "tool": "Steam Generator"
+    },
+    {
+      "relationship": "from",
+      "tool": "Gasifier Burner"
+    },
+    {
+      "relationship": "from",
+      "tool": "Pelletizer"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Biofuel"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Biomass"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Tractor"
+    },
+    {
+      "relationship": "uses",
+      "tool": "QA Plate"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Power"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Hydraulic"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Tractor"
+    },
+    {
+      "relationship": "enables",
+      "tool": "CEB Press"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Bulldozer"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Microtractor"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Car"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Truck"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Chipper Hammermill"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Drill Press"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Multimachine"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Welder"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Ironworker"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Sawmill"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Induction Furnace"
+    },
+    {
+      "relationship": "enables",
+      "tool": "CNC Torch Table"
+    }
+  ],
+  "machine": "Power Cube"
+}

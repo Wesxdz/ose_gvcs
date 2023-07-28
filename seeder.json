@@ -1,0 +1,17 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Induction Furnace"
+    },
+    {
+      "relationship": "from",
+      "tool": "CNC Torch Table"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Power Cube"
+    }
+  ],
+  "machine": "Seeder"
+}

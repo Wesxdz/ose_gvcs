@@ -1,0 +1,37 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Induction Furnace"
+    },
+    {
+      "relationship": "from",
+      "tool": "CNC Torch Table"
+    },
+    {
+      "relationship": "from",
+      "tool": "CNC Torch Table"
+    },
+    {
+      "relationship": "from",
+      "tool": "Hydraulic Motor"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Hydraulic Motor"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Power Cube"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Cement Mixer"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Well"
+    }
+  ],
+  "machine": "Well-Drilling Rig"
+}

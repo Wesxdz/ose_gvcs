@@ -1,0 +1,77 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Induction Furnace"
+    },
+    {
+      "relationship": "from",
+      "tool": "CNC Torch Table"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Baler"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Pelletizer"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Biomass"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Steam"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Heat"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Fly Ash"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Syngas"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Biofuel"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Biochar"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Steam Generator"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Steam Engine"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Cement Mixer"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Power Cube"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Truck"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Car"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Kiln"
+    }
+  ],
+  "machine": "Gasifier Burner"
+}

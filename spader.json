@@ -1,0 +1,13 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Induction Furnance"
+    },
+    {
+      "relationship": "from",
+      "tool": "CNC Torch Table"
+    }
+  ],
+  "machine": "Spader"
+}

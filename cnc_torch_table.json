@@ -1,0 +1,13 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Ironworker"
+    },
+    {
+      "relationship": "from",
+      "tool": "Multimachine"
+    }
+  ],
+  "machine": "CNC Torch Table"
+}

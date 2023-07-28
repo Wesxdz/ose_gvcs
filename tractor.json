@@ -1,0 +1,69 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Power Cube"
+    },
+    {
+      "relationship": "from",
+      "tool": "Hydraulic Motor"
+    },
+    {
+      "relationship": "from",
+      "tool": "Induction Furnace"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Power Cube"
+    },
+    {
+      "relationship": "enables",
+      "tool": "CEB Press"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Rototiller"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Backhoe"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Universal Rotor"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Well-Drilling Rig"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Trencher"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Baler"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Seeder"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Spader"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Rototiller"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Hay Rake"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Hay Cutter"
+    }
+  ],
+  "machine": "Tractor"
+}

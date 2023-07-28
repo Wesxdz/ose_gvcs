@@ -1,0 +1,49 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Induction Furnace"
+    },
+    {
+      "relationship": "from",
+      "tool": "Steel"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Gasifier Burner"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Steam Generator"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Solar Concentrator"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Heat"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Steam"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Electricity"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Electric Motor Generator"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Greenhouse"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Aquaponics"
+    }
+  ],
+  "machine": "Steam Engine"
+}

@@ -1,0 +1,9 @@
+{
+  "ecology": [
+    {
+      "relationship": "uses",
+      "tool": "CNC Machine"
+    }
+  ],
+  "machine": "Multimachine"
+}

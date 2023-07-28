@@ -1,0 +1,17 @@
+{
+  "ecology": [
+    {
+      "relationship": "uses",
+      "tool": "Universal Power Supply"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Rod and Wire Mill"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Metal parts"
+    }
+  ],
+  "machine": "Welder"
+}

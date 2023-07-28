@@ -1,0 +1,45 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Induction Furnace"
+    },
+    {
+      "relationship": "from",
+      "tool": "Electric Motor Generator"
+    },
+    {
+      "relationship": "from",
+      "tool": "Welder"
+    },
+    {
+      "relationship": "from",
+      "tool": "Plasma Cutter"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Electricity"
+    },
+      {
+      "relationship": "uses",
+      "tool": "Welder"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Welding"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Painting"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Car"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Truck"
+    }
+  ],
+  "machine": "Industrial Robot"
+}

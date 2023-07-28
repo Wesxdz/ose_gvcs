@@ -1,0 +1,25 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Induction Furnace"
+    },
+    {
+      "relationship": "from",
+      "tool": "CNC Torch Table"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Power"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Aluminum"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Induction Furnace"
+    }
+  ],
+  "machine": "Aluminum Extractor"
+}

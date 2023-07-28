@@ -1,0 +1,61 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Induction Furnace"
+    },
+    {
+      "relationship": "from",
+      "tool": "Electric Motor Generator"
+    },
+    {
+      "relationship": "from",
+      "tool": "Bioplastic Extruder"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Sunlight"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Heat"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Heat Transfer Fluid"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Steam"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Power"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Heat"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Steam Generator"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Steam Engine"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Universal Power Supply"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Sintering"
+    },
+    {
+      "relationship": "enables",
+      "tool": "CHP"
+    }
+  ],
+  "machine": "Solar Concentrator"
+}

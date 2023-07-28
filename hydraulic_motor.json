@@ -1,0 +1,149 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Induction Furnace"
+    },
+    {
+      "relationship": "from",
+      "tool": "Multimachine"
+    },
+    {
+      "relationship": "from",
+      "tool": "Hydraulic Hoses"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Hydraulic Fluid"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Hydraulic Pressure"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Industrial Robot"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Bioplastic Extruder"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Power Cube"
+    },
+    {
+      "relationship": "enables",
+      "tool": "CEB Press"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Cement Mixer"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Sawmill"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Tractor"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Bulldozer"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Seeder"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Hay Rake"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Backhoe"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Microtractor"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Rototiller"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Spader"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Hay Cutter"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Trencher"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Microcombine"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Baler"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Well-Drilling Rig"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Multimachine"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Ironworker"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Metal Roller"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Rod and Wire Mill"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Press Forge"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Universal Rotor"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Drill Press"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Chipper Hammermill"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Pelletizer"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Car"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Truck"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Power Cube"
+    }
+  ],
+  "machine": "Hydraulic Motor"
+}

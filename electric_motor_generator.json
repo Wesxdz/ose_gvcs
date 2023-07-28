@@ -1,0 +1,85 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Nickel-Iron Battery"
+    },
+    {
+      "relationship": "from",
+      "tool": "Universal Power Supply"
+    },
+    {
+      "relationship": "from",
+      "tool": "Charge Controller"
+    },
+    {
+      "relationship": "from",
+      "tool": "3D Printer"
+    },
+    {
+      "relationship": "from",
+      "tool": "Rod and Wire Mill"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Wind Turbine"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Steam Engine"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Electricity"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Power"
+    },
+    {
+      "relationship": "enables",
+      "tool": "3D Printer"
+    },
+    {
+      "relationship": "enables",
+      "tool": "CNC Circuit Mill"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Multimachine"
+    },
+    {
+      "relationship": "enables",
+      "tool": "CNC Torch Table"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Laser Cutter"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Industrial Robot"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Welder"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Solar Concentrator"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Multimachine"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Car"
+    },
+    {
+      "relationship": "enables",
+      "tool": "CNC"
+    }
+  ],
+  "machine": "Electric Motor Generator"
+}

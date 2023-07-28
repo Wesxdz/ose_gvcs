@@ -1,0 +1,57 @@
+{
+  "ecology": [
+    {
+      "relationship": "from",
+      "tool": "Induction Furnace"
+    },
+    {
+      "relationship": "from",
+      "tool": "Welder"
+    },
+    {
+      "relationship": "from",
+      "tool": "Multimachine"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Sawmill"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Baler"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Chipper Hammermill"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Power Cube"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Hay"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Kiln"
+    },
+    {
+      "relationship": "uses",
+      "tool": "Sawdust"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Pellets"
+    },
+    {
+      "relationship": "creates",
+      "tool": "Animal Feed"
+    },
+    {
+      "relationship": "enables",
+      "tool": "Gasifier Burner"
+    }
+  ],
+  "machine": "Pelletizer"
+}
