@@ -19,7 +19,7 @@
     {
       "relationship": "from",
       "tool": "CNC Torch Table"
-    },
+    }
   ],
   "machine": "Chipper Hammermill"
 }
