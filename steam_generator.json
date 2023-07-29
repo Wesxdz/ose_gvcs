@@ -1,37 +1,38 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "Steel"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Water"
-    },
-    {
-      "relationship": "creates",
-      "tool": "Steam"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Steam Engine"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Power Cube"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Solar Turbine"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Greenhouse"
-    }
-  ],
-  "machine": "Steam Generator"
+    "machine": "Steam Generator",
+    "category": "unknown",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "Steel"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Water"
+        },
+        {
+            "relationship": "creates",
+            "tool": "Steam"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Steam Engine"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Power Cube"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Solar Turbine"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Greenhouse"
+        }
+    ]
 }

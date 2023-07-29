@@ -1,53 +1,54 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "3D Printer"
-    },
-    {
-      "relationship": "from",
-      "tool": "CNC Circuit Mill"
-    },
-    {
-      "relationship": "from",
-      "tool": "Electric Motor Generator"
-    },
-    {
-      "relationship": "from",
-      "tool": "Camera"
-    },
-    {
-      "relationship": "from",
-      "tool": "Laser"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Universal Power Supply"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Computer"
-    },
-    {
-      "relationship": "creates",
-      "tool": "CAD"
-    },
-    {
-      "relationship": "enables",
-      "tool": "3D Printer"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Tractor"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Industrial Robot"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Digital Fabrication"
-    }
-  ],
-  "machine": "3D Scanner"
+    "machine": "3D Scanner",
+    "category": "industry",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "3D Printer"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Circuit Mill"
+        },
+        {
+            "relationship": "from",
+            "tool": "Electric Motor Generator"
+        },
+        {
+            "relationship": "from",
+            "tool": "Camera"
+        },
+        {
+            "relationship": "from",
+            "tool": "Laser"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Universal Power Supply"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Computer"
+        },
+        {
+            "relationship": "creates",
+            "tool": "CAD"
+        },
+        {
+            "relationship": "enables",
+            "tool": "3D Printer"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Tractor"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Industrial Robot"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Digital Fabrication"
+        }
+    ]
 }

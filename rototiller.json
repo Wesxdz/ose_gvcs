@@ -1,21 +1,22 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnance"
-    },
-    {
-      "relationship": "from",
-      "tool": "CNC Torch Table"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Hydraulic Motor"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Power Cube"
-    }
-  ],
-  "machine": "Rototiller"
+    "machine": "Rototiller",
+    "category": "unknown",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnance"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Hydraulic Motor"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Power Cube"
+        }
+    ]
 }

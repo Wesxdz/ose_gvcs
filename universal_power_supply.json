@@ -1,49 +1,50 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "CNC Circuit Mill"
-    },
-    {
-      "relationship": "from",
-      "tool": "3D Printer"
-    },
-    {
-      "relationship": "from",
-      "tool": "Rod and Wire Mill"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Nickel-Iron Battery"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Power Cube"
-    },
-    {
-      "relationship": "creates",
-      "tool": "Electricity"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Electric Motor Generator"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Welder"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Plasma Cutter"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Industrial Robot"
-    }
-  ],
-  "machine": "Universal Power Supply"
+    "machine": "Universal Power Supply",
+    "category": "energy",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "CNC Circuit Mill"
+        },
+        {
+            "relationship": "from",
+            "tool": "3D Printer"
+        },
+        {
+            "relationship": "from",
+            "tool": "Rod and Wire Mill"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Nickel-Iron Battery"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Power Cube"
+        },
+        {
+            "relationship": "creates",
+            "tool": "Electricity"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Electric Motor Generator"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Welder"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Plasma Cutter"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Industrial Robot"
+        }
+    ]
 }

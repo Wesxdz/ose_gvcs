@@ -1,9 +1,10 @@
 {
-  "ecology": [
-    {
-      "relationship": "uses",
-      "tool": "Universal Power Supply"
-    }
-  ],
-  "machine": "Induction Furnace"
+    "machine": "Induction Furnace",
+    "category": "industry",
+    "ecology": [
+        {
+            "relationship": "uses",
+            "tool": "Universal Power Supply"
+        }
+    ]
 }

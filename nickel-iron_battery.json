@@ -1,33 +1,34 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "3D Printer"
-    },
-    {
-      "relationship": "from",
-      "tool": "Controller Box"
-    },
-    {
-      "relationship": "from",
-      "tool": "Rod and Wire Mill"
-    },
-    {
-      "relationship": "creates",
-      "tool": "Electricity"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Universal Power Supply"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Charge Controller"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Inverter"
-    }
-  ],
-  "machine": "Nickel-Iron Battery"
+    "machine": "Nickel-Iron Battery",
+    "category": "energy",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "3D Printer"
+        },
+        {
+            "relationship": "from",
+            "tool": "Controller Box"
+        },
+        {
+            "relationship": "from",
+            "tool": "Rod and Wire Mill"
+        },
+        {
+            "relationship": "creates",
+            "tool": "Electricity"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Universal Power Supply"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Charge Controller"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Inverter"
+        }
+    ]
 }

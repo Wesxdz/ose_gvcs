@@ -1,29 +1,30 @@
 {
-	"ecology": [
-	  {
-		"relationship": "from",
-		"tool": "Induction Furnace"
-	  },
-	  {
-		"relationship": "from",
-		"tool": "CNC Torch Table"
-	  },
-	  {
-		"relationship": "from",
-		"tool": "Multimachine"
-	  },
-	  {
-		"relationship": "uses",
-		"tool": "Hydraulic Motor"
-	  },
-	  {
-		"relationship": "uses",
-		"tool": "Tractor"
-	  },
-	  {
-		"relationship": "uses",
-		"tool": "Power Cube"
-	  }
-	],
-	"machine": "Microcombine"
-  }
+    "machine": "Microcombine",
+    "category": "agriculture",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        },
+        {
+            "relationship": "from",
+            "tool": "Multimachine"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Hydraulic Motor"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Tractor"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Power Cube"
+        }
+    ]
+}

@@ -1,17 +1,18 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "CNC Torch Table"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Universal Power Supply"
-    }
-  ],
-  "machine": "Wind Turbine"
+    "machine": "Wind Turbine",
+    "category": "energy",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Universal Power Supply"
+        }
+    ]
 }

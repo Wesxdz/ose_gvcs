@@ -1,29 +1,30 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "CNC Torch Table"
-    },
-    {
-      "relationship": "from",
-      "tool": "Electric Motor Generator"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Electricity"
-    },
-    {
-      "relationship": "creates",
-      "tool": "Plastic"
-    },
-    {
-      "relationship": "enables",
-      "tool": "3D Printer"
-    }
-  ],
-  "machine": "Bioplastic Extruder"
+    "machine": "Bioplastic Extruder",
+    "category": "materials",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        },
+        {
+            "relationship": "from",
+            "tool": "Electric Motor Generator"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Electricity"
+        },
+        {
+            "relationship": "creates",
+            "tool": "Plastic"
+        },
+        {
+            "relationship": "enables",
+            "tool": "3D Printer"
+        }
+    ]
 }

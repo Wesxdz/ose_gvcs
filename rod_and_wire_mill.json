@@ -1,29 +1,30 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "CNC Torch Table"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Power Cube"
-    },
-    {
-      "relationship": "creates",
-      "tool": "Wire"
-    },
-    {
-      "relationship": "creates",
-      "tool": "Rod"
-    }
-  ],
-  "machine": "Rod and Wire Mill"
+    "machine": "Rod and Wire Mill",
+    "category": "industry",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Power Cube"
+        },
+        {
+            "relationship": "creates",
+            "tool": "Wire"
+        },
+        {
+            "relationship": "creates",
+            "tool": "Rod"
+        }
+    ]
 }

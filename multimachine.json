@@ -1,9 +1,10 @@
 {
-  "ecology": [
-    {
-      "relationship": "uses",
-      "tool": "CNC Machine"
-    }
-  ],
-  "machine": "Multimachine"
+    "machine": "Multimachine",
+    "category": "industry",
+    "ecology": [
+        {
+            "relationship": "uses",
+            "tool": "CNC Machine"
+        }
+    ]
 }

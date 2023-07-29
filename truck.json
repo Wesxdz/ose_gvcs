@@ -1,49 +1,50 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "3D Printer"
-    },
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "Rod and Wire Mill"
-    },
-    {
-      "relationship": "from",
-      "tool": "Multimachine"
-    },
-    {
-      "relationship": "from",
-      "tool": "Hydraulic Motor"
-    },
-    {
-      "relationship": "from",
-      "tool": "Industrial Robot"
-    },
-    {
-      "relationship": "from",
-      "tool": "Welder"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Power Cube"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Biodiesel"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Steam Engine"
-    },
-    {
-      "relationship": "creates",
-      "tool": "Transportation"
-    }
-  ],
-  "machine": "Truck"
+    "machine": "Truck",
+    "category": "transportation",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "3D Printer"
+        },
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "Rod and Wire Mill"
+        },
+        {
+            "relationship": "from",
+            "tool": "Multimachine"
+        },
+        {
+            "relationship": "from",
+            "tool": "Hydraulic Motor"
+        },
+        {
+            "relationship": "from",
+            "tool": "Industrial Robot"
+        },
+        {
+            "relationship": "from",
+            "tool": "Welder"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Power Cube"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Biodiesel"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Steam Engine"
+        },
+        {
+            "relationship": "creates",
+            "tool": "Transportation"
+        }
+    ]
 }

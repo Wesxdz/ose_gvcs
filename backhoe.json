@@ -1,21 +1,22 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "Plasma Cutter"
-    },
-    {
-      "relationship": "from",
-      "tool": "CNC Torch Table"
-    },
-    {
-      "relationship": "from",
-      "tool": "Welder"
-    }
-  ],
-  "machine": "Backhoe"
+    "machine": "Backhoe",
+    "category": "habitat",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "Plasma Cutter"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        },
+        {
+            "relationship": "from",
+            "tool": "Welder"
+        }
+    ]
 }

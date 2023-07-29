@@ -1,69 +1,70 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "Welder"
-    },
-    {
-      "relationship": "from",
-      "tool": "Multimachine"
-    },
-    {
-      "relationship": "from",
-      "tool": "Hydraulic Motor"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Wood"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Power Cube"
-    },
-    {
-      "relationship": "uses",
-      "tool": "3D Scanner"
-    },
-    {
-      "relationship": "creates",
-      "tool": "Sawdust"
-    },
-    {
-      "relationship": "creates",
-      "tool": "Lumber"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Pelletizer"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Chipper Hammermill"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Kiln"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Workshop"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Greenhouse"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Hab Lab"
-    },
-    {
-      "relationship": "enables",
-      "tool": "RepLab"
-    }
-  ],
-  "machine": "Sawmill"
+    "machine": "Sawmill",
+    "category": "habitat",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "Welder"
+        },
+        {
+            "relationship": "from",
+            "tool": "Multimachine"
+        },
+        {
+            "relationship": "from",
+            "tool": "Hydraulic Motor"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Wood"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Power Cube"
+        },
+        {
+            "relationship": "uses",
+            "tool": "3D Scanner"
+        },
+        {
+            "relationship": "creates",
+            "tool": "Sawdust"
+        },
+        {
+            "relationship": "creates",
+            "tool": "Lumber"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Pelletizer"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Chipper Hammermill"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Kiln"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Workshop"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Greenhouse"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Hab Lab"
+        },
+        {
+            "relationship": "enables",
+            "tool": "RepLab"
+        }
+    ]
 }

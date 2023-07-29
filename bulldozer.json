@@ -1,25 +1,26 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "CNC Torch Table"
-    },
-    {
-      "relationship": "from",
-      "tool": "Welder"
-    },
-    {
-      "relationship": "from",
-      "tool": "Power Cube"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Tractor"
-    }
-  ],
-  "machine": "Bulldozer"
+    "machine": "Bulldozer",
+    "category": "habitat",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        },
+        {
+            "relationship": "from",
+            "tool": "Welder"
+        },
+        {
+            "relationship": "from",
+            "tool": "Power Cube"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Tractor"
+        }
+    ]
 }

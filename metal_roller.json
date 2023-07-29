@@ -1,25 +1,26 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "CNC Torch Table"
-    },
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "Welder"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Power Cube"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Induction Furnace"
-    }
-  ],
-  "machine": "Metal Roller"
+    "machine": "Metal Roller",
+    "category": "industry",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        },
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "Welder"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Power Cube"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Induction Furnace"
+        }
+    ]
 }

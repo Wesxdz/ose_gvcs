@@ -1,13 +1,14 @@
 {
-	"ecology": [
-	  {
-		"relationship": "from",
-		"tool": "Induction Furnace"
-	  },
-	  {
-		"relationship": "uses",
-		"tool": "Universal Rotor"
-	  }
-	],
-	"machine": "Drill Press"
-  }
+    "machine": "Drill Press",
+    "category": "industry",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Universal Rotor"
+        }
+    ]
+}

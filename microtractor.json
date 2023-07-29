@@ -1,29 +1,30 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "Welder"
-    },
-    {
-      "relationship": "from",
-      "tool": "Plasma Cutter"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Power Cube"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Rototiller"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Chipper Hammermill"
-    }
-  ],
-  "machine": "Microtractor"
+    "machine": "Microtractor",
+    "category": "agriculture",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "Welder"
+        },
+        {
+            "relationship": "from",
+            "tool": "Plasma Cutter"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Power Cube"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Rototiller"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Chipper Hammermill"
+        }
+    ]
 }

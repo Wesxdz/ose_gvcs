@@ -1,21 +1,22 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "CNC Torch Table"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Universal Rotor"
-    },
-    {
-      "relationship": "creates",
-      "tool": "Hay"
-    }
-  ],
-  "machine": "Hay Rake"
+    "machine": "Hay Rake",
+    "category": "agriculture",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Universal Rotor"
+        },
+        {
+            "relationship": "creates",
+            "tool": "Hay"
+        }
+    ]
 }

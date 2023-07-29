@@ -1,33 +1,34 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "Welder"
-    },
-    {
-      "relationship": "from",
-      "tool": "CNC Torch Table"
-    },
-    {
-      "relationship": "from",
-      "tool": "Ironworker"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Power Cube"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Rototiller"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Tractor"
-    }
-  ],
-  "machine": "CEB Press"
+    "machine": "CEB Press",
+    "category": "habitat",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "Welder"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        },
+        {
+            "relationship": "from",
+            "tool": "Ironworker"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Power Cube"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Rototiller"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Tractor"
+        }
+    ]
 }

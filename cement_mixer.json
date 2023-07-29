@@ -1,65 +1,66 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Multimachine"
-    },
-    {
-      "relationship": "from",
-      "tool": "Electric Motor Generator"
-    },
-    {
-      "relationship": "from",
-      "tool": "Tractor"
-    },
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "CNC Torch Table"
-    },
-    {
-      "relationship": "from",
-      "tool": "Ironworker"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Power Cube"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Lime"
-    },
-    {
-      "relationship": "creates",
-      "tool": "Cement"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Workshop"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Greenhouse"
-    },
-    {
-      "relationship": "enables",
-      "tool": "HabLab"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Foundations"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Multimachine"
-    },
-    {
-      "relationship": "enables",
-      "tool": "Foundry"
-    }
-  ],
-  "machine": "Cement Mixer"
+    "machine": "Cement Mixer",
+    "category": "habitat",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Multimachine"
+        },
+        {
+            "relationship": "from",
+            "tool": "Electric Motor Generator"
+        },
+        {
+            "relationship": "from",
+            "tool": "Tractor"
+        },
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        },
+        {
+            "relationship": "from",
+            "tool": "Ironworker"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Power Cube"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Lime"
+        },
+        {
+            "relationship": "creates",
+            "tool": "Cement"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Workshop"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Greenhouse"
+        },
+        {
+            "relationship": "enables",
+            "tool": "HabLab"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Foundations"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Multimachine"
+        },
+        {
+            "relationship": "enables",
+            "tool": "Foundry"
+        }
+    ]
 }

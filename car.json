@@ -1,49 +1,50 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "Industrial Robot"
-    },
-    {
-      "relationship": "from",
-      "tool": "Welder"
-    },
-    {
-      "relationship": "from",
-      "tool": "CNC Torch Table"
-    },
-    {
-      "relationship": "from",
-      "tool": "3D Printer"
-    },
-    {
-      "relationship": "from",
-      "tool": "Multimachine"
-    },
-    {
-      "relationship": "from",
-      "tool": "Power Cube"
-    },
-    {
-      "relationship": "from",
-      "tool": "Hydraulic Motor"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Power Cube"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Roads"
-    },
-    {
-      "relationship": "creates",
-      "tool": "Transportation"
-    }
-  ],
-  "machine": "Car"
+    "machine": "Car",
+    "category": "transportation",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "Industrial Robot"
+        },
+        {
+            "relationship": "from",
+            "tool": "Welder"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        },
+        {
+            "relationship": "from",
+            "tool": "3D Printer"
+        },
+        {
+            "relationship": "from",
+            "tool": "Multimachine"
+        },
+        {
+            "relationship": "from",
+            "tool": "Power Cube"
+        },
+        {
+            "relationship": "from",
+            "tool": "Hydraulic Motor"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Power Cube"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Roads"
+        },
+        {
+            "relationship": "creates",
+            "tool": "Transportation"
+        }
+    ]
 }

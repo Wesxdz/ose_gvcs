@@ -1,29 +1,30 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "Multimachine"
-    },
-    {
-      "relationship": "from",
-      "tool": "Electric Motor Generator"
-    },
-    {
-      "relationship": "from",
-      "tool": "Nickel-Iron Battery"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Wind"
-    },
-    {
-      "relationship": "creates",
-      "tool": "Electricity"
-    }
-  ],
-  "machine": "Wind Turbine"
+    "machine": "Wind Turbine",
+    "category": "energy",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "Multimachine"
+        },
+        {
+            "relationship": "from",
+            "tool": "Electric Motor Generator"
+        },
+        {
+            "relationship": "from",
+            "tool": "Nickel-Iron Battery"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Wind"
+        },
+        {
+            "relationship": "creates",
+            "tool": "Electricity"
+        }
+    ]
 }

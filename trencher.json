@@ -1,17 +1,18 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnance"
-    },
-    {
-      "relationship": "from",
-      "tool": "CNC Torch Table"
-    },
-    {
-      "relationship": "from",
-      "tool": "Welder"
-    }
-  ],
-  "machine": "Trencher"
+    "machine": "Trencher",
+    "category": "agriculture",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnance"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        },
+        {
+            "relationship": "from",
+            "tool": "Welder"
+        }
+    ]
 }

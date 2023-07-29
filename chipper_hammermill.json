@@ -1,25 +1,26 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Induction Furnace"
-    },
-    {
-      "relationship": "from",
-      "tool": "CNC Torch Table"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Power Cube"
-    },
-    {
-      "relationship": "uses",
-      "tool": "Hydraulic Motor"
-    },
-    {
-      "relationship": "from",
-      "tool": "CNC Torch Table"
-    }
-  ],
-  "machine": "Chipper Hammermill"
+    "machine": "Chipper Hammermill",
+    "category": "industry",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Induction Furnace"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Power Cube"
+        },
+        {
+            "relationship": "uses",
+            "tool": "Hydraulic Motor"
+        },
+        {
+            "relationship": "from",
+            "tool": "CNC Torch Table"
+        }
+    ]
 }

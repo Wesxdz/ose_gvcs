@@ -1,13 +1,14 @@
 {
-  "ecology": [
-    {
-      "relationship": "from",
-      "tool": "Ironworker"
-    },
-    {
-      "relationship": "from",
-      "tool": "Multimachine"
-    }
-  ],
-  "machine": "CNC Circuit Mill"
+    "machine": "CNC Circuit Mill",
+    "category": "industry",
+    "ecology": [
+        {
+            "relationship": "from",
+            "tool": "Ironworker"
+        },
+        {
+            "relationship": "from",
+            "tool": "Multimachine"
+        }
+    ]
 }
