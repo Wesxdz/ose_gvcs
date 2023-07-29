@@ -1,6 +1,6 @@
 {
     "machine": "Rototiller",
-    "category": "unknown",
+    "category": "agriculture",
     "ecology": [
         {
             "relationship": "from",

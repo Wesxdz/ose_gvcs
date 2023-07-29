@@ -1,6 +1,6 @@
 {
     "machine": "Steam Generator",
-    "category": "unknown",
+    "category": "energy",
     "ecology": [
         {
             "relationship": "from",
