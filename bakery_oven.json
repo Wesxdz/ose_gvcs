@@ -1,6 +1,6 @@
 {
     "machine": "Bakery Oven",
-    "category": "energy",
+    "category": "agriculture",
     "ecology": [
         {
             "relationship": "from",
